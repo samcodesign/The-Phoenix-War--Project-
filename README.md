@@ -33,6 +33,22 @@ There is no specific rules in this game you just have to:
 ### Structure and functions
 
 Almost 540 lines of codes written in C to ensure a good user experience.
+<strong>some of the used functions :<strong>
+
+'''C
+void show_record()
+    {system("cls");
+	char name[20];
+	float scr;
+	FILE *f;
+	f=fopen("score.txt","r");
+	fscanf(f,"%s%f",&name,&scr);
+	printf("\n\n\t\t______________________________________________________________");
+	printf("\n\n\t\t %s has secured the Highest Score %0.2f",name,scr);
+	printf("\n\n\t\t______________________________________________________________");
+	fclose(f);
+	getch();}
+    '''
 
 ## Installation
 ## Contribution

@@ -33,7 +33,7 @@ There is no specific rules in this game you just have to:
 ### Structure and functions
 
 Almost 540 lines of codes written in C to ensure a good user experience.
-<strong>some of the used functions :<strong>
+>some of the used functions :
 
 - The record screen (showing the scrore...) reading the score of the txt file and showing it on the screen...
 ```C

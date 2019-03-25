@@ -1,3 +1,4 @@
+![](phoenix.jpg)
 # -Project- The Phoenix War
 > "The Phoenix war" is an role & quiz game coded in C.
 
@@ -14,7 +15,8 @@ that controls a "Hero" with some abilities and battle an other race.The goal is 
 ### Gameplay
 
 The Phoenix war is a non-graphic game coded in C. The game consist of one game mode; there is different ways to finish the game, each hero you choose will impact the story mode. To win, the summoner have to answer correctly some questions, like a quiz... But for some Hero either you die before you start or you win by answering just one question. Ups to you to discover!
-[](header.png)
+
+
 
 ### Rules & explanation
 ### Structure and functions

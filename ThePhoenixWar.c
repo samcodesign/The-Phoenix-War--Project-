@@ -509,7 +509,7 @@ int main(){
   score:/* The score page section */
     system("cls");
 	score=(float)countr*100000;
-	if(score>0.00 && score<10000)
+	if(score>0.00 && score<1000000)
 	{
 	   printf("\n\n\t\t____________________ CONGRATULATION ____________________ ");
 	     printf("\n\t You won %.2f points!",score);goto go;}

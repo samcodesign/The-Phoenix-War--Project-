@@ -1,4 +1,5 @@
-<img src="img/phoenix.jpg">
+
+![](img/phoenix.jpg)
 
 # -Project- The Phoenix War
 

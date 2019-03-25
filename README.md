@@ -135,6 +135,6 @@ Done? Easy you see!
 Me 'KyuCore'(s_benmahrez@enst.dz) & Aimen Mohamed Zennoune (m_zenoune@enst.dz)
 Our names on the Help Game page!!
 
-### License
+## License
 
 ![GitHub](https://img.shields.io/github/license/KyuCore/The-Phoenix-War--Project-.svg)

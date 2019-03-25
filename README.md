@@ -132,6 +132,9 @@ Done? Easy you see!
 
 ## Contribution
 
+Me 'KyuCore'(s_benmahrez@enst.dz) & Aimen Mohamed Zennoune (m_zenoune@enst.dz)
+Our names on the Help Game page!!
+
 ### License
 
 ![GitHub](https://img.shields.io/github/license/KyuCore/The-Phoenix-War--Project-.svg)

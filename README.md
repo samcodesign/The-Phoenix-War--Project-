@@ -5,6 +5,7 @@
 > "The Phoenix war" is an role & quiz game coded in C.
 ![GitHub](https://img.shields.io/github/license/KyuCore/The-Phoenix-War--Project-.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/KyuCore/The-Phoenix-War--Project-.svg)
+![GitHub followers](https://img.shields.io/github/followers/KyuCore.svg?label=Follow&style=social)
 
 ## Description
 
@@ -104,8 +105,10 @@ getch();
 goto X;/* when the user prees any key the prog will automatically go to the "X" page */
 ```
 
-## Installation
+## Setup
 
 ## Contribution
 
 ### License
+
+![GitHub](https://img.shields.io/github/license/KyuCore/The-Phoenix-War--Project-.svg)

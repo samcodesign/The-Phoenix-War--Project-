@@ -19,7 +19,7 @@ The Phoenix war is a non-graphic game coded in C. The game consist of one game m
 
 ![](img/screengame.PNG)
 
-### Rules & explanation
+### Rules
 ### Structure and functions
 ## Installation
 ## Contribution

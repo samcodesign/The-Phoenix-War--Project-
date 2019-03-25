@@ -109,6 +109,7 @@ goto X;/* when the user prees any key the prog will automatically go to the "X" 
 
 To get the PlaySound function to work correctly , you have to include -lwinmm in the linker
 >What's -lwinmm?
+
 >in MinGW libwinmm.a is an import library for the standard windows system file winmm.dll
 
 ### CodeBlocks

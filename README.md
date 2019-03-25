@@ -28,7 +28,7 @@ There is no specific rules in this game you just have to:
 - Do not die
 - Enjoy it!
 
-P.s: For More Help Press 'H' key when launching the game.
+<br>Note<br>: For More Help Press 'H' key when launching the game.
 
 ### Structure and functions
 ## Installation

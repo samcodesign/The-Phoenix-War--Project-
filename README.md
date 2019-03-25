@@ -115,10 +115,15 @@ To get the PlaySound function to work correctly , you have to include -lwinmm in
 ### CodeBlocks
 
 - Step1:
+
 ![](img/Capture1.PNG)
+
 - Step2:
+
 ![](img/Capture2.PNG)
+
 - Step3:
+
 ![](img/Capture3.PNG)
 
 ## Contribution

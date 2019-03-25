@@ -26,7 +26,7 @@ The Phoenix war is a non-graphic game coded in C. The game consist of one game m
 There is no specific rules in this game you just have to:
 
 - Start the game (exectable file)
-- Enter you name
+- Enter your name
 - Choose a race
 - Try to answer all the questions (There is a score at the end xD)
 - Do not die

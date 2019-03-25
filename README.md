@@ -85,6 +85,25 @@ if (score>=sc){
  fclose(f);}}
 ```
 
+- Some cool stuff I discovered while doing this project:
+
+```C
+system("cls"); /* Clearing the previous screen */
+
+system("COLOR XY"); /* Changing the syntax/Background color */
+
+Sleep(X); /* Makes the program sleep for X(ms) */
+
+PlaySound(TEXT("PATH//..//file.wav"),NULL,SND_ASYNC | SND_LOOP | SND_FILENAME);/* playing a background music while the game is running */
+
+toupper(getch());/* analyse the the charactere that has been typed by the user */
+
+(strcmp(str1,str2)==0);/* comparing between two strings using (strcmp) */
+
+getch();
+goto X;/* when the user prees any key the prog will automatically go to the "X" page */
+```
+
 ## Installation
 
 ## Contribution

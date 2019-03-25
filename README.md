@@ -1,4 +1,5 @@
-![](phoenix.jpg)
+<img src="phoenix.jpg">
+
 # -Project- The Phoenix War
 > "The Phoenix war" is an role & quiz game coded in C.
 

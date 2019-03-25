@@ -31,6 +31,9 @@ There is no specific rules in this game you just have to:
 <strong>Note<strong>: For More Help Press 'H' key when launching the game.
 
 ### Structure and functions
+
+Almost 540 lines of codes written in C to ensure a good user experience.
+
 ## Installation
 ## Contribution
 ### License

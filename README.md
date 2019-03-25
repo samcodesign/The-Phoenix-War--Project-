@@ -106,25 +106,28 @@ goto X;/* when the user prees any key the prog will automatically go to the "X" 
 ```
 
 ## Setup
+You can either launch it from the .exe file or in a text editor with the .C file (VsCode, Notepad++, CodeBlocks, Dev++, ...)
+
+### CodeBlocks
 
 To get the PlaySound function to work correctly , you have to include -lwinmm in the linker
 >What's -lwinmm?
 
 >in MinGW libwinmm.a is an import library for the standard windows system file winmm.dll
 
-### CodeBlocks
-
-- Step1:
+- Step1: go to >>Settings>> Compiler...
 
 ![](img/Capture1.PNG)
 
-- Step2:
+- Step2: go to >> Linker settings...
 
 ![](img/Capture2.PNG)
 
-- Step3:
+- Step3: add "-lwinmm" on >> Other linker options...
 
 ![](img/Capture3.PNG)
+
+Done! Easy you see!
 
 ## Contribution
 

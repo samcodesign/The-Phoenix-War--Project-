@@ -21,8 +21,9 @@ The Phoenix war is a non-graphic game coded in C. The game consist of one game m
 ### Rules
 
 There is no specific rules in this game you just have to:
+
 - Start the game (exectable file)
-- Enter you name 
+- Enter you name
 - Choose a race
 - Try to answer all the questions (There is a score at the end xD)
 - Do not die
@@ -35,7 +36,8 @@ There is no specific rules in this game you just have to:
 Almost 540 lines of codes written in C to ensure a good user experience.
 >some of the used functions :
 
-- The record screen (showing the scrore...) reading the score of the txt file and showing it on the screen...
+- The record screen (showing the scrore...) reading the score of the txt file and showing it on the screen with a simple open/read/close file:
+
 ```C
 void show_record(){
 system("cls");
@@ -49,6 +51,24 @@ printf("\n\n\t\t %s has secured the Highest Score %0.2f",name,scr);
 printf("\n\n\t\t_______________________________________________________");
 fclose(f);
 getch();}
+```
+
+- The edit score function:
+
+```C
+void edit_score(float score, char plnm[20]){
+system("cls");
+float sc;
+char nm[20];
+FILE *f;
+f=fopen("score.txt","r");
+fscanf(f,"%s%f",&nm,&sc);
+if (score>=sc){
+ sc=score;
+ fclose(f);
+ f=fopen("score.txt","w");
+ fprintf(f,"%s\n%.2f",plnm,sc);
+ fclose(f);}}
 ```
 
 ## Installation

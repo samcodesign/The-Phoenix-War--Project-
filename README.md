@@ -128,7 +128,7 @@ To get the PlaySound function to work correctly , you have to include -lwinmm in
 
 ![](img/Capture3.PNG)
 
-Done! Easy you see!
+Done? Easy you see!
 
 ## Contribution
 

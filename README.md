@@ -71,6 +71,19 @@ if (score>=sc){
  fclose(f);}}
 ```
 
+- The libraries:
+
+```C
+/* The stdio.h header defines three variable types, several macros, and various functions for performing input and output. */
+#include <stdio.h>
+/* The conio.h is a C header file used mostly by MS-DOS compilers to provide console input/output. It is not part of the C standard library or ISO C, nor is it defined by POSIX. */
+#include <conio.h>
+/* The stdlib.h header defines four variable types, several macros, and various functions for performing general functions. */
+#include<stdlib.h>
+/* The windows.h is a Windows-specific header file for the C and C++ programming languages which contains declarations for all of the functions in the Windows API, all the common macros used by Windows programmers, and all the data types used by the various functions and subsystems. */
+#include<windows.h>
+```
+
 ## Installation
 ## Contribution
 ### License

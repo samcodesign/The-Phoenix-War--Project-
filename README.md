@@ -112,8 +112,8 @@ To Download Our open source project:
 
 - On your PowerShell/Git
 
-```sh
-    git clone https://github.com/KyuCore/The-Phoenix-War--Project-.git
+```git
+   $ git clone https://github.com/KyuCore/The-Phoenix-War--Project-.git
 ```
 
 - Or just Download the zip file xD

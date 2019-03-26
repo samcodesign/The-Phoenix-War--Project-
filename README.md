@@ -106,7 +106,20 @@ getch();
 goto X;/* when the user prees any key the prog will automatically go to the "X" page */
 ```
 
+## Download
+
+To Download Our open source project:
+
+- On your PowerShell/Git
+
+```sh
+    git clone https://github.com/KyuCore/The-Phoenix-War--Project-.git
+```
+
+- Or just Download the zip file xD
+
 ## Setup
+
 You can either launch it from the .exe file or in a text editor with the .C file (VsCode, Notepad++, CodeBlocks, Dev++, ...)
 
 ### CodeBlocks
